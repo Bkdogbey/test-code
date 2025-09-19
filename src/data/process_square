@@ -4,4 +4,7 @@ def cube(x):
     return x**3 
 def power(x):
     return f"x raised to the power of {x}"
+def log(x):
+    return f"Log of {x}"
+
 
